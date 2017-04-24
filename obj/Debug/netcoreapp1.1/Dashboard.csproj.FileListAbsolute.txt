@@ -1,0 +1,8 @@
+C:\Users\t-abv\Documents\Dashboard\bin\Debug\netcoreapp1.1\Dashboard.deps.json
+C:\Users\t-abv\Documents\Dashboard\bin\Debug\netcoreapp1.1\Dashboard.runtimeconfig.json
+C:\Users\t-abv\Documents\Dashboard\bin\Debug\netcoreapp1.1\Dashboard.runtimeconfig.dev.json
+C:\Users\t-abv\Documents\Dashboard\bin\Debug\netcoreapp1.1\Dashboard.dll
+C:\Users\t-abv\Documents\Dashboard\bin\Debug\netcoreapp1.1\Dashboard.pdb
+C:\Users\t-abv\Documents\Dashboard\obj\Debug\netcoreapp1.1\Dashboard.AssemblyInfo.cs
+C:\Users\t-abv\Documents\Dashboard\obj\Debug\netcoreapp1.1\Dashboard.dll
+C:\Users\t-abv\Documents\Dashboard\obj\Debug\netcoreapp1.1\Dashboard.pdb

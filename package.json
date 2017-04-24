@@ -1,0 +1,33 @@
+{
+  "name": "startup-pack",
+  "version": "1.0.0",
+  "description": "This is a startup project for asp net core, reactjs and typescript SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhivijay96/startup-pack.git"
+  },
+  "author": "Abhishek V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhivijay96/startup-pack/issues"
+  },
+  "homepage": "https://github.com/abhivijay96/startup-pack#readme",
+  "dependencies": {
+    "@types/react": "^15.0.22",
+    "@types/react-dom": "^15.5.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "@types/material-ui": "^0.17.2",
+    "@types/react-tap-event-plugin": "0.0.30",
+    "material-ui": "^0.17.4",
+    "react-tap-event-plugin": "^2.0.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2"
+  }
+}
